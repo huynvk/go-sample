@@ -1,0 +1,11 @@
+version: "2"
+services:
+  postgres:
+    image: postgres
+    env_file: .env
+    environment:
+      - POSTGRES_USER=${db_user}
+      - POSTGRES_PASSWORD=${db_pass}
+      - POSTGRES_DB=${db_name}
+    ports:
+      - 5433:5432
