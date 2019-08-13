@@ -1,12 +1,15 @@
 package main
 
 import (
-    "fmt"
-		"rsc.io/quote"
-		"github.com/huynvk/gosample/greeting"
+	"fmt"
+
+	"github.com/huynvk/gosample/fundamentals"
+	"github.com/huynvk/gosample/greeting"
+	"rsc.io/quote"
 )
 
 func main() {
-		fmt.Println(quote.Hello())
-		greeting.Hello()
+	fmt.Println(quote.Hello())
+	greeting.Hello()
+	fundamentals.Print()
 }
