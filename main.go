@@ -1,7 +1,7 @@
 package main
 
 import (
-	sample "github.com/huynvk/gosample/sample2"
+	sample "github.com/huynvk/gosample/sample3"
 )
 
 func main() {
