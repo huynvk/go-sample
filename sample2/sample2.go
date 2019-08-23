@@ -1,6 +1,7 @@
 package sample2
 
 import (
+	"errors"
 	"fmt"
 	"strconv"
 
@@ -38,5 +39,8 @@ func Calc(input string) (float64, error) {
 func Handle() {
 	fmt.Println(Calc("25"))
 	fmt.Println(Calc("-1"))
+	a, e := Calc("-1")
+	fmt.Printf("Value %v, error %+v", a, e)
+	fmt.Printf("%+v", errors.New("askacssakdj"))
 	fmt.Println(Calc("0"))
 }

@@ -1,7 +1,8 @@
-package calc
+package main
 
 import (
 	"errors"
+	"fmt"
 	"math"
 )
 
@@ -27,4 +28,11 @@ func Divide(a float64, b float64) (float64, error) {
 	}
 
 	return a / b, nil
+}
+
+func main() {
+	fmt.Println(Divide(1, 0))
+	fmt.Println(Divide(1, 2))
+	fmt.Println(Sqrt(-1))
+	fmt.Println(Sqrt(25))
 }
