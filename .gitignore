@@ -16,3 +16,5 @@ gosample
 
 # VScode files
 .vscode
+
+.env
