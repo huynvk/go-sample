@@ -1,0 +1,48 @@
+# github.com/asaskevich/govalidator v0.0.0-20190424111038-f61b66f89f4a
+github.com/asaskevich/govalidator
+# github.com/gorilla/context v1.1.1
+github.com/gorilla/context
+# github.com/gorilla/securecookie v1.1.1
+github.com/gorilla/securecookie
+# github.com/gorilla/sessions v1.2.0
+github.com/gorilla/sessions
+# github.com/gosimple/slug v1.7.0
+github.com/gosimple/slug
+# github.com/jinzhu/gorm v1.9.10
+github.com/jinzhu/gorm
+github.com/jinzhu/gorm/dialects/sqlite
+# github.com/jinzhu/inflection v1.0.0
+github.com/jinzhu/inflection
+# github.com/jinzhu/now v1.0.1
+github.com/jinzhu/now
+# github.com/mattn/go-sqlite3 v1.10.0
+github.com/mattn/go-sqlite3
+# github.com/microcosm-cc/bluemonday v1.0.2
+github.com/microcosm-cc/bluemonday
+# github.com/qor/admin v0.0.0-20190723110324-8ecf009adc82
+github.com/qor/admin
+# github.com/qor/assetfs v0.0.0-20170713023933-ff57fdc13a14
+github.com/qor/assetfs
+# github.com/qor/middlewares v0.0.0-20170822143614-781378b69454
+github.com/qor/middlewares
+# github.com/qor/qor v0.0.0-20190319081902-186b0237364b
+github.com/qor/qor
+github.com/qor/qor/resource
+github.com/qor/qor/utils
+# github.com/qor/responder v0.0.0-20171031032654-b6def473574f
+github.com/qor/responder
+# github.com/qor/roles v0.0.0-20171127035124-d6375609fe3e
+github.com/qor/roles
+# github.com/qor/session v0.0.0-20170907035918-8206b0adab70
+github.com/qor/session
+github.com/qor/session/manager
+github.com/qor/session/gorilla
+# github.com/qor/validations v0.0.0-20171228122639-f364bca61b46
+github.com/qor/validations
+# github.com/rainycape/unidecode v0.0.0-20150907023854-cb7f23ec59be
+github.com/rainycape/unidecode
+# github.com/theplant/cldr v0.0.0-20190423050709-9f76f7ce4ee8
+github.com/theplant/cldr
+# golang.org/x/net v0.0.0-20190311183353-d8887717615a
+golang.org/x/net/html
+golang.org/x/net/html/atom
